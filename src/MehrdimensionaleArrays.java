@@ -25,17 +25,17 @@ public class MehrdimensionaleArrays {
 		
 		String[][] firstandlastname = new String[5][2];
 		
-		firstandlastname[0][0] = "Pussy";
-		firstandlastname[0][1] = "Destroyer";
+		firstandlastname[0][0] = "Peter";
+		firstandlastname[0][1] = "Griffin";
 		
-		firstandlastname[1][0] = "Scham";
-		firstandlastname[1][1] = "Haar";
+		firstandlastname[1][0] = "Homer";
+		firstandlastname[1][1] = "Simpson";
 		
 		firstandlastname[2][0] = "Schwanzus";
 		firstandlastname[2][1] = "Longus";
 		
-		firstandlastname[3][0] = "Riesen";
-		firstandlastname[3][1] = "Glied";
+		firstandlastname[3][0] = "American";
+		firstandlastname[3][1] = "Dad";
 		
 		firstandlastname[4][0] = "Mike";
 		firstandlastname[4][1] = "Litoris";
