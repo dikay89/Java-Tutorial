@@ -27,7 +27,7 @@ public class IfAbfragen {
 		}
 		
 		if(age2 >= 18) {
-			System.out.println("She's legal!");
+			System.out.println("He's legal!");
 		}
 		else {
 			System.out.println("NOPE.");
